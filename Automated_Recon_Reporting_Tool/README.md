@@ -151,15 +151,6 @@ $ python recon.py -d example.com -f html -o report.html
 
 ---
 
-## 💡 Future Improvements
-
-- Integrate VirusTotal & SecurityTrails APIs  
-- Add Flask dashboard for visualization  
-- Include Dockerfile & CI workflow  
-- Support CSV/JSON report exports  
-
----
-
 ## 📤 Deployment (Upload to GitHub)
 
 ```bash
